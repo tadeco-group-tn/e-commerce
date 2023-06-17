@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "Acer"
+  },
+  {
+    "Id": 2,
+    "Name": "Dell"
+  },
+  {
+    "Id": 3,
+    "Name": "HP"
+  },
+  {
+    "Id": 4,
+    "Name": "Huawei"
+  },
+  {
+    "Id": 5,
+    "Name": "Lenovo"
+  },
+  {
+    "Id": 6,
+    "Name": "Samsung"
+  }
+]

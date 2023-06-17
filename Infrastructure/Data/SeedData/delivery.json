@@ -1,0 +1,23 @@
+[
+  {
+    "Id": 1,
+    "ShortName": "Rapise",
+    "Description": "Délai de livraision le plus rapide",
+    "DeliveryTime": "1-2 Days",
+    "Price": 10
+  },
+  {
+    "Id": 2,
+    "ShortName": "Express",
+    "Description": "Obtenez-le dans les 5 jours",
+    "DeliveryTime": "2-5 Days",
+    "Price": 5
+  },
+  {
+    "Id": 3,
+    "ShortName": "GRATUIT",
+    "Description": "gratuit!",
+    "DeliveryTime": "1-2 Weeks",
+    "Price": 0
+  }
+]

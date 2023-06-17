@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Core.Entities.OrderAggregate.Order">
+    <Position X="4.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CAAABAAEAAEEAAAAAAAAAAAAAEAAAAQAAAAgAAAAAAA=</HashCode>
+      <FileName>Entities\OrderAggregate\Order.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Status" />
+      <Property Name="ShipToAddress" />
+      <Property Name="DeliveryMethod" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Core.Entities.OrderAggregate.Address">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAIAAAAAAAAAAAAAAABAAIABAAAAAg=</HashCode>
+      <FileName>Entities\OrderAggregate\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.OrderAggregate.DeliveryMethod">
+    <Position X="2.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAAAAAAIAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\OrderAggregate\DeliveryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Core.Entities.OrderAggregate.OrderItem">
+    <Position X="8.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\OrderAggregate\OrderItem.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ItemOrdered" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Core.Entities.OrderAggregate.ProductItemOrdered">
+    <Position X="8.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Entities\OrderAggregate\ProductItemOrdered.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Core.Entities.OrderAggregate.OrderStatus">
+    <Position X="1.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Entities\OrderAggregate\OrderStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

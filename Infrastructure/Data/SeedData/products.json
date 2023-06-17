@@ -1,0 +1,66 @@
+[
+  {
+    "Name": "ACER EXTENSA 15",
+    "Description": "Ecran 15.6\" FHD IPS - Processeur Intel Core i5-1135G7, 11è Génération, up to 4.2 GHz , 8 Mo de mémoire cache - Mémoire 8 Go - Disque 1 To - Carte graphique Nvidia GeForce MX350, 2 Go de mémoire dédiée - Bluetooth 5.0 - USB 2.0 - 2x USB 3.2 - HDMI - Wifi - Ethernet - Webcam avec micro - Couleur Noir - Garantie 1 an",
+    "Price": 1549,
+    "PictureUrl": "images/products/pc-acer-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "ACER ASPIRE A315",
+    "Description": "Ecran 15.6\" FHD LCD - Processeur Intel Core i5-1035G1, 8é Gén, up to 3.6 GHz, 6 Mo de mémoire cache - Mémoire 20 Go - Disque 1 To - Carte graphique Intel UHD Graphics - Wifi - Bluetooth - USB 3.0 - 2x USB 2.0 - Couleur Rouge - Garantie 1 an",
+    "Price": 1333,
+    "PictureUrl": "images/products/pc-acer-2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "DELL VOSTRO 15 3510",
+    "Description": "Ecran 15.6\" HD LED - Processeur Intel Core i3-1115G4, up to 4.1 GHz, 6 Mo de mémoire cache - Mémoire 8 Go - Disque SSD 256 Go - Intel UHD Graphics - Lecteur de cartes - HDMI - RJ45 - Wifi - Bluetooth 5.0 - Garantie 1 an",
+    "Price": 909,
+    "PictureUrl": "images/products/pc-dell-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "DELL VOSTRO 3400",
+    "Description": "Ecran HD 14\" - Processeur Intel Core i3-1115G4, 11ème génération jusqu'à 4.1 GHz, 6 Mo de mémoire cache - 12 Go de mémoire - Disque 1 To - Intel UHD Graphics - Wifi - Bluetooth - USB 3.0 - USB 2.0 - USB 3.1 TYPE C - HDMI - Ethernet - Couleur Noir - Garantie 1 an",
+    "Price": 850,
+    "PictureUrl": "images/products/pc-dell-2.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "HUAWEI MATEBOOK 14 2021",
+    "Description": "Ecran 14'' QHD IPS - Résolution 2160 x 1440 px - Processeur Intel Core i5-1135G7, up to 4.2 Ghz, 8 Mo de cache - Mémoire RAM 8 Go - Stockage 512 Go SSD - Intel Iris Xe Graphics - Capteur d'empreinte digitale intégré au bouton d'alimentation - Caméra rétractable intégrée au clavier - Webcam HD - Bluetooth 5.1 - Wifi - USB-C - 2x USB 3.2 Gen1 - HDMI - Clavier chiclet - Dimensions 322.5 x 214.8 x 15.9 mm - Poids 1.49 kg - Windows 10 - Garantie 1 an",
+    "Price": 2299,
+    "PictureUrl": "images/products/pc-hw-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "LENOVO IDEAPAD 3 15ADA05",
+    "Description": "Ecran 15.6\" Full HD - Processeur: AMD Athlon Silver 3050U (2,3 GHz up to 3.2 GHz Turbo max, L2: 1 Mo / L3: 4 Mo de mémoire cache, Dual-Core) - Système d'exploitation Windows 10 Famille - Mémoire RAM: 12 Go - Disque Dur: 1To HDD - Carte Graphique: AMD Radeon Graphics avec Wifi, Bluetooth, 1x USB 2.0, 2x USB 3.2 Gen 1, 1x HDMI 1.4b, 1x prise combo casque/micro (3,5 mm) et lecteur de carte - Couleur: Noir - Garantie: 1 an",
+    "Price": 120,
+    "PictureUrl": "images/products/pc-lv-1.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "TABLETTE LENOVO TAB M8 HD / 8\" / 4G / 3 GO / 32 GO / GRIS",
+    "Description": "Fonction Appel Téléphonique - Ecran 8'' HD (1280x800) - Processeur MediaTek Helio A22 Quad Core, 2.0 Ghz - RAM 3 Go - Mémoire 32 Go extensible jusqu'à 128 Go via Micro SD - Android 9.0 Go Edition - 2x Caméras 5MP (Arriére), 2MP (Frontale) - Dolby Audio - 4G - Wi-Fi - Batterie 5000mAh - Bluetooth 5.0 - Étanchéité à l'eau IP5X - Couleur Gris fer - Garantie 1 an",
+    "Price": 600,
+    "PictureUrl": "images/products/tab-lenovo-1.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "TABLETTE LENOVO YOGA SMART TAB ZA540008MA 10.1\"/ 4 GO / 64 GO",
+    "Description": "Ecran 10.1\" FHD Tactile IPS - Résolution 1920 x 1200 - Processeur Qualcomm Snapdragon 439 (8Cores, 8x A53 @2.0GHz), Qualcomm Adreno 505 GPU - RAM 4 Go - Mémoire 64 Go - Android 9 Pie ou plus - Caméra 8 Mégapixels (Arriére), 5 Mégapixels (Frontale) - Haut-parleur Stereo, 2W x2, JBL paper diaphragm Hi-Fi, optimized with Dolby Atmos - LTE - Wifi - Bluetooth - GPS - Micro-USB - Micro-SD - Lecteur Nano-SIM - Batterie 7000mAh -Appareil photo Arrière : 5MP , Avant : 8MP - IP52 - Couleur Gris - Garantie 1 an",
+    "Price": 8,
+    "PictureUrl": "images/products/tab-lenovo-2.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 5
+  }
+]
